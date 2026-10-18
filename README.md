@@ -37,7 +37,7 @@ Dependencies are only required when using library features that depend on them.
 To install a specific release:
 
 ```text
-https://github.com/AbdulAzziz2020/KuroNeko.Library.git#v1.0.0
+https://github.com/AbdulAzziz2020/KuroNeko.Library.git#v0.0.1
 ```
 
 ### Install from Disk
