@@ -29,7 +29,7 @@ Dependencies are only required when using library features that depend on them.
 4. Enter the repository URL:
 
    ```text
-   https://github.com/<username>/KuroNeko.Library.git
+   https://github.com/AbdulAzziz2020/KuroNeko.Library.git
    ```
 
 5. Click **Install**.
@@ -37,10 +37,8 @@ Dependencies are only required when using library features that depend on them.
 To install a specific release:
 
 ```text
-https://github.com/<username>/KuroNeko.Library.git#v1.0.0
+https://github.com/AbdulAzziz2020/KuroNeko.Library.git#v1.0.0
 ```
-
-Replace `<username>` with the repository owner's GitHub username.
 
 ### Install from Disk
 
