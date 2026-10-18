@@ -29,7 +29,7 @@ Dependencies are only required when using library features that depend on them.
 4. Enter the repository URL:
 
    ```text
-   [https://github.com/AbdulAzziz2020/KuroNeko.Library.git](https://github.com/AbdulAzziz2020/Kuro-Neko-Library.git)
+   https://github.com/AbdulAzziz2020/Kuro-Neko-Library.git
    ```
 
 5. Click **Install**.
